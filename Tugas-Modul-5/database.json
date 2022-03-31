@@ -1,0 +1,10 @@
+[
+  {
+    "Airline": "Garuda",
+    "Origin": "Soekarno-Hatta (CGK)",
+    "Destination": "Ngurah Rai (DPS)",
+    "Fare": "1000000",
+    "Tax": 130000,
+    "Total_fare": 1130000
+  }
+]
